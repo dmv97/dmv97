@@ -10,11 +10,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/ " target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=" " height="30" width="40" /></a>
-<a href="https://pythonandvba.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/website.svg" alt="pythonandvba.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dalmar3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalmar3" height="30" width="40" /></a>
+<a href="https://dalmare.me" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/website.svg" alt="pythonandvba.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dalmare3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalmare3" height="30" width="40" /></a>
+<a href="https://medium.com/@dalmar3" target="_blank"><img align="center" src="https://medium.com/?source=---two_column_layout_nav----------------------------------" alt="dalmare3" height="30" width="40" /></a>
+  
 </p>
 
-📫 How to reach me **dalmare.me**
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/vba.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
