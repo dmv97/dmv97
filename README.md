@@ -62,5 +62,5 @@
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nxfgn&label=Profile%20views&color=0e75b6&style=flat" alt="nxfgn" /> </p>
 
-<p align="left"> <img src="https://github.com/dmv97/dmv97/blob/main/asciitest.txt" alt="uwu" /> </p>
+<p align="left"> <img src="https://github.com/dmv97/dmv97/blob/main/asciitest.txt" alt="86" /> </p>
 
