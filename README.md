@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://dalmare.me" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" alt="pythonandvba.com" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dalmare3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalmare3" height="30" width="40" /></a>
 <a href="https://medium.com/@dalmar3" target="blank"><img align="center" src="https://www.svgrepo.com/show/354057/medium-icon.svg" alt="@dalmar3" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/dfhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dfhn" height="30" width="40" /></a>
